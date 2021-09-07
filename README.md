@@ -2,7 +2,7 @@
 - 👀 I’m interested in APP DEVELOPMENT
 - 🌱 I’m currently learning DJANGO FRAMEWORK,MACHINE LEARNING AND AI
 - 💞️ I’m looking to collaborate on ANDROID APP DEVELOPMENT
-- 📫 How to reach me you can mail me on subhamksingh604@gmail.com or Join me on Telegram https://t.me/CoderDaicho     qqqqqwww2
+- 📫 How to reach me you can mail me on subhamksingh604@gmail.com or Join me on Telegram https://t.me/CoderDaicho  
 
 
 <!---
